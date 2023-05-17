@@ -1,4 +1,4 @@
-#phage_evolution_project
+# phage_evolution_project
 
 This repository contains code and scripts used to analize data sets from an upcoming manuscript on bacteriophage evolution.
 
