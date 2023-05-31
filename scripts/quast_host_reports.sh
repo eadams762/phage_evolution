@@ -3,7 +3,7 @@
 #--------------------------SBATCH settings------
 
 #SBATCH --job-name=quast	## job name
-#SBATCH -A katrine_lab		## account name
+#SBATCH -A <account>		## account name
 #SBATCH -p standard		## partition/queue name
 #SBATCH --nodes=1		## number of nodes to use
 #SBATCH --ntasks=1		## number of tasks to launch

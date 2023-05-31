@@ -3,7 +3,7 @@
 #--------------------------SBATCH settings------
 
 #SBATCH --job-name=sym_lnk              ## job name
-#SBATCH -A katrine_lab			## account name
+#SBATCH -A <account>			## account name
 #SBATCH -p standard                     ## partition/queue name
 #SBATCH --cpus-per-task=1               ## number of cores the job needs
 #SBATCH --error=tmp/slurm_%J.err        ## error log file
